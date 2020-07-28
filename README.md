@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Juan 👋
 
 <!--
 **Jnegrier/Jnegrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a 🇨🇱 Chilean Software Engineer, working within the QA Team at Distilled SCH, I'm currently actively working in the development of [Delta Reporter](https://github.com/delta-reporter) to make it one of the best reporting tool for automated tests.
+
+Besides that, I've contributed to some others projects as well, and I'm really open for any idea to improve anything :)
+
